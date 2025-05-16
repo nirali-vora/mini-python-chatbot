@@ -8,7 +8,5 @@ A basic rule-based chatbot built using Python. Perfect for beginners to understa
 👉 Easy to expand with more phrases
 👉 No external libraries required
 
-## ▶️ How to Run
-
-```bash
+▶️ How to Run
 python chatbot.py
