@@ -1,4 +1,4 @@
-# 💬 Mini Python Chatbot
+💬 Mini Python Chatbot
 
 A basic rule-based chatbot built using Python. Perfect for beginners to understand how conditional responses and string matching works.
 
