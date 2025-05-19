@@ -2,7 +2,7 @@
 
 A basic rule-based chatbot built using Python. Perfect for beginners to understand how conditional responses and string matching works.
 
-## ✅ Features
+# ✅ Features
 
 👉 Replies to common phrases like: "hi", "hello", "how are you", "bye", etc.
 👉 Easy to expand with more phrases
