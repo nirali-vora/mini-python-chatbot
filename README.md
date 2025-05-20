@@ -15,3 +15,22 @@ Built with pure Python — no need for any external libraries.
 🚀 Beginner-Friendly
 Great starting point to learn chatbot development and basic NLP concepts.
 
+▶️ How to Run
+✅ Make sure Python is installed on your system.
+
+💻 Open your terminal or command prompt.
+
+▶️ Run the chatbot with:
+
+python chatbot.py
+💬 Start chatting with your bot!
+
+🧪 Sample Interaction :
+You: hi  
+Bot: Hello there!
+
+You: how are you?  
+Bot: I'm just a bunch of Python code, but I'm doing great!
+
+You: bye  
+Bot: Goodbye! Have a nice day!
