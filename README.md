@@ -29,8 +29,8 @@ python chatbot.py
 You: hi  
 Bot: Hello there!
 
-You: how are you?  
+You: how are you?
 Bot: I'm just a bunch of Python code, but I'm doing great!
 
-You: bye  
+You: bye
 Bot: Goodbye! Have a nice day!
