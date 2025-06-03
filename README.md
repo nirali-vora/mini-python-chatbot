@@ -6,7 +6,7 @@ A simple and interactive rule-based chatbot built with pure Python. Perfect for 
 Replies to greetings and common inputs like:
 "hi", "hello", "how are you?", "bye", and more.
 
-🧠 Fully Customizable
+🧠 Fully Customizable 
 Easily add more phrases and responses to make the bot smarter.
 
 ⚙️ No Dependencies Required
