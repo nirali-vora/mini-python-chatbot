@@ -33,4 +33,4 @@ You: how are you?
 Bot: I'm just a bunch of Python code, but I'm doing great!
 
 You: bye
-Bot: Goodbye! Have a nice day!
+Bot: Goodbye! Have a nice day
